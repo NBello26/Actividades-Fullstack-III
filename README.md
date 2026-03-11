@@ -192,4 +192,5 @@ Los endpoints pueden probarse utilizando:
 
 **Nicolás Bello**  
 **Rodrigo Vargas**
+
 Actividad 1 – Fullstack III
