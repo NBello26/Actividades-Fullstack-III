@@ -15,6 +15,9 @@ Repositorio microservicio:
 - Readme básico
 - Licencia
 
+Repositorio Despliegue docker local:
+- Microservicio Producto con node desplegado en docker localmente.
+
 El microservicio permite realizar operaciones básicas sobre productos mediante una **API REST**, incluyendo:
 
 - Obtener todos los productos
